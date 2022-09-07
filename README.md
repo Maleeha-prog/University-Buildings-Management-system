@@ -1,0 +1,2 @@
+# University-Buildings-Management-system
+This program enable the user enter 1.new record 2.Modify the Record 3.View the record . For new entry the program first ask for lab or class room data. when you choose either of the two it ask for the number of buildings. then it asks for labs/classroom you have in each building separately. after that for each lab it ask data such as name of the lab, seating capacity and weekly schedule.
